@@ -1,0 +1,9 @@
+{
+    "domains": {
+        "victorcucu.software": "192.168.1.1",
+        "sub.victorcucu.software": "192.168.1.2",
+        "google.ro": "192.168.1.3"
+    },
+
+    "forwarder": "8.8.8.8"
+}

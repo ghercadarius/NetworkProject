@@ -1,0 +1,7 @@
+['172.24.32.1', '192.168.1.1', '10.0.0.1', '10.28.24.33', '10.220.187.120', '10.220.189.21', '62.115.180.105', '171.75.10.131', '62.67.4.86', '213.248.78.109', '43.152.44.239', '43.152.44.239']
+('62.115.180.105', {'country': 'Romania', 'region': 'B', 'city': 'Bucharest', 'lat': 44.4268, 'lon': 26.1025})
+('171.75.10.131', {'country': 'United Kingdom', 'region': 'ENG', 'city': 'London', 'lat': 51.5287, 'lon': -0.100964})
+('62.67.4.86', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt am Main', 'lat': 50.1109, 'lon': 8.68213})
+('213.248.78.109', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt am Main', 'lat': 50.0987, 'lon': 8.63226})
+('43.152.44.239', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt am Main', 'lat': 50.1187, 'lon': 8.6842})
+('43.152.44.239', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt am Main', 'lat': 50.1187, 'lon': 8.6842})

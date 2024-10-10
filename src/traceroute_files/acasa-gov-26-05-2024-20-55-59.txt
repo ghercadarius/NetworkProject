@@ -1,0 +1,9 @@
+['172.24.32.1', '192.168.1.1', '10.0.0.1', '172.19.212.177', '10.220.187.120', '10.220.187.207', '195.66.224.198', '168.209.0.13', '168.209.0.13', '168.209.1.201', '168.209.129.146', '168.209.90.3', '168.209.131.143', '197.97.72.54']
+('195.66.224.198', {'country': 'United Kingdom', 'region': 'ENG', 'city': 'London', 'lat': 51.5108, 'lon': -0.0810928})
+('168.209.0.13', {'country': 'South Africa', 'region': 'GP', 'city': 'Johannesburg', 'lat': -26.2041, 'lon': 28.0473})
+('168.209.0.13', {'country': 'South Africa', 'region': 'GP', 'city': 'Johannesburg', 'lat': -26.2041, 'lon': 28.0473})
+('168.209.1.201', {'country': 'South Africa', 'region': 'GP', 'city': 'Johannesburg', 'lat': -26.2041, 'lon': 28.0473})
+('168.209.129.146', {'country': 'South Africa', 'region': 'WC', 'city': 'Cape Town', 'lat': -33.9249, 'lon': 18.4241})
+('168.209.90.3', {'country': 'South Africa', 'region': 'WC', 'city': 'Cape Town', 'lat': -33.9249, 'lon': 18.4241})
+('168.209.131.143', {'country': 'South Africa', 'region': 'GP', 'city': 'Sandton', 'lat': -26.042, 'lon': 28.0233})
+('197.97.72.54', {'country': 'South Africa', 'region': 'GP', 'city': 'Sandton', 'lat': -26.042, 'lon': 28.0233})

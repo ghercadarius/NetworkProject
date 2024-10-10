@@ -1,0 +1,9 @@
+['172.24.32.1', '192.168.41.82', '62.217.248.130', '93.122.133.92', '93.186.132.58', '213.144.184.112', '72.14.205.162', '172.253.73.152', '142.250.46.69', '216.58.206.78']
+('62.217.248.130', {'country': 'Romania', 'region': 'B', 'city': 'Bucharest', 'lat': 44.4152, 'lon': 26.166})
+('93.122.133.92', {'country': 'Romania', 'region': 'IF', 'city': 'Otopeni', 'lat': 44.55, 'lon': 26.0724})
+('93.186.132.58', {'country': 'Romania', 'region': 'B', 'city': 'Bucharest', 'lat': 44.4268, 'lon': 26.1025})
+('213.144.184.112', {'country': 'Italy', 'region': '25', 'city': 'Milan', 'lat': 45.4642, 'lon': 9.18998})
+('72.14.205.162', {'country': 'United States', 'region': 'CA', 'city': 'Mountain View', 'lat': 37.422, 'lon': -122.084})
+('172.253.73.152', {'country': 'United States', 'region': 'CA', 'city': 'Mountain View', 'lat': 37.422, 'lon': -122.084})
+('142.250.46.69', {'country': 'United States', 'region': 'CA', 'city': 'Mountain View', 'lat': 37.422, 'lon': -122.084})
+('216.58.206.78', {'country': 'United States', 'region': 'UT', 'city': 'Riverton', 'lat': 40.4953, 'lon': -111.9439})

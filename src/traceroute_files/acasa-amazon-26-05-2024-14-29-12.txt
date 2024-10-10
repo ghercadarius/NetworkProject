@@ -1,0 +1,13 @@
+['172.24.32.1', '192.168.1.1', '10.0.0.1', '172.19.212.177', '10.220.187.120', '10.220.187.191', '80.249.208.77', '140.222.235.165', '139.4.15.178', '219.158.15.157', '219.158.9.214', '125.33.186.250', '114.249.179.70', '202.106.204.238', '54.222.0.163', '54.222.0.248', '54.222.24.249', '54.222.61.171']
+('80.249.208.77', {'country': 'The Netherlands', 'region': 'NH', 'city': 'Schiphol', 'lat': 52.2832, 'lon': 4.7521})
+('140.222.235.165', {'country': 'United States', 'region': 'NY', 'city': 'Harrison', 'lat': 41.0269, 'lon': -73.7153})
+('139.4.15.178', {'country': 'Germany', 'region': 'BE', 'city': 'Berlin', 'lat': 52.5353, 'lon': 13.4245})
+('219.158.15.157', {'country': 'China', 'region': 'BJ', 'city': 'Jinrongjie', 'lat': 39.9175, 'lon': 116.362})
+('219.158.9.214', {'country': 'China', 'region': 'BJ', 'city': 'Jinrongjie', 'lat': 39.9175, 'lon': 116.362})
+('125.33.186.250', {'country': 'China', 'region': 'BJ', 'city': 'Beijing', 'lat': 39.911, 'lon': 116.395})
+('114.249.179.70', {'country': 'China', 'region': 'BJ', 'city': 'Beijing', 'lat': 39.911, 'lon': 116.395})
+('202.106.204.238', {'country': 'China', 'region': 'BJ', 'city': 'Jinrongjie', 'lat': 39.9175, 'lon': 116.362})
+('54.222.0.163', {'country': 'China', 'region': 'BJ', 'city': 'Beijing', 'lat': 39.9288, 'lon': 116.3889})
+('54.222.0.248', {'country': 'China', 'region': 'BJ', 'city': 'Beijing', 'lat': 39.9288, 'lon': 116.3889})
+('54.222.24.249', {'country': 'China', 'region': 'BJ', 'city': 'Beijing', 'lat': 39.9288, 'lon': 116.3889})
+('54.222.61.171', {'country': 'China', 'region': 'BJ', 'city': 'Beijing', 'lat': 39.911, 'lon': 116.395})

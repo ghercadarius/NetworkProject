@@ -1,0 +1,9 @@
+['172.24.32.1', '192.168.41.82', '62.217.248.130', '93.122.133.92', '93.186.132.58', '213.144.184.112', '142.250.162.114', '142.251.64.184', '216.239.42.174', '142.250.186.46']
+('62.217.248.130', {'country': 'Romania', 'region': 'B', 'city': 'Bucharest', 'lat': 44.4152, 'lon': 26.166})
+('93.122.133.92', {'country': 'Romania', 'region': 'IF', 'city': 'Otopeni', 'lat': 44.55, 'lon': 26.0724})
+('93.186.132.58', {'country': 'Romania', 'region': 'B', 'city': 'Bucharest', 'lat': 44.4268, 'lon': 26.1025})
+('213.144.184.112', {'country': 'Italy', 'region': '25', 'city': 'Milan', 'lat': 45.4642, 'lon': 9.18998})
+('142.250.162.114', {'country': 'United States', 'region': 'CA', 'city': 'Mountain View', 'lat': 37.422, 'lon': -122.084})
+('142.251.64.184', {'country': 'United States', 'region': 'CA', 'city': 'Mountain View', 'lat': 37.422, 'lon': -122.084})
+('216.239.42.174', {'country': 'United States', 'region': 'NY', 'city': 'New York', 'lat': 40.782, 'lon': -73.9953})
+('142.250.186.46', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt am Main', 'lat': 50.1109, 'lon': 8.68213})

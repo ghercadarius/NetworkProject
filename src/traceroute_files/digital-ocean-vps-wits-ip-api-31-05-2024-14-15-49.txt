@@ -1,0 +1,8 @@
+['10.114.0.3', '10.114.0.3', '10.114.0.3', '10.114.0.3', '10.68.67.61', '143.244.192.112', '138.197.249.40', '143.244.224.116', '143.244.224.115', '80.81.193.129', '172.71.248.3', '172.64.145.160']
+('143.244.192.112', {'country': 'Canada', 'region': 'QC', 'city': 'Montreal', 'lat': 45.5019, 'lon': -73.5674})
+('138.197.249.40', {'country': 'Canada', 'region': 'ON', 'city': 'Toronto', 'lat': 43.6547, 'lon': -79.3623})
+('143.244.224.116', {'country': 'Canada', 'region': 'QC', 'city': 'Montreal', 'lat': 45.5019, 'lon': -73.5674})
+('143.244.224.115', {'country': 'Canada', 'region': 'QC', 'city': 'Montreal', 'lat': 45.5019, 'lon': -73.5674})
+('80.81.193.129', {'country': 'Germany', 'region': 'NW', 'city': 'Cologne', 'lat': 50.9485, 'lon': 6.90934})
+('172.71.248.3', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt', 'lat': 50.1109, 'lon': 8.6821})
+('172.64.145.160', {'country': 'Canada', 'region': 'ON', 'city': 'Toronto', 'lat': 43.6532, 'lon': -79.3832})

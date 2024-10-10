@@ -1,0 +1,9 @@
+['10.114.0.3', '10.68.67.55', '138.197.249.46', '143.244.192.106', '143.244.224.118', '143.244.224.107', '80.81.196.105', '10.114.0.3', '10.114.0.3', '10.114.0.3', '10.114.0.3', '10.114.0.3', '10.114.0.3', '10.114.0.3', '30.39.117.121', '43.152.44.239', '43.152.44.239']
+('138.197.249.46', {'country': 'Canada', 'region': 'ON', 'city': 'Toronto', 'lat': 43.6547, 'lon': -79.3623})
+('143.244.192.106', {'country': 'Canada', 'region': 'QC', 'city': 'Montreal', 'lat': 45.5019, 'lon': -73.5674})
+('143.244.224.118', {'country': 'Canada', 'region': 'QC', 'city': 'Montreal', 'lat': 45.5019, 'lon': -73.5674})
+('143.244.224.107', {'country': 'Canada', 'region': 'QC', 'city': 'Montreal', 'lat': 45.5019, 'lon': -73.5674})
+('80.81.196.105', {'country': 'Germany', 'region': 'NW', 'city': 'Cologne', 'lat': 50.9485, 'lon': 6.90934})
+('30.39.117.121', {'country': 'United States', 'region': 'OH', 'city': 'Whitehall', 'lat': 39.9747, 'lon': -82.8947})
+('43.152.44.239', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt am Main', 'lat': 50.1187, 'lon': 8.6842})
+('43.152.44.239', {'country': 'Germany', 'region': 'HE', 'city': 'Frankfurt am Main', 'lat': 50.1187, 'lon': 8.6842})

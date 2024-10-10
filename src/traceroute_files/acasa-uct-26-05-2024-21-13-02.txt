@@ -1,0 +1,13 @@
+['172.24.32.1', '192.168.1.1', '10.0.0.1', '10.28.24.33', '10.220.187.120', '10.220.142.131', '62.115.114.112', '154.54.59.86', '154.54.58.5', '154.54.36.89', '130.117.0.141', '154.54.39.186', '149.11.39.2', '155.232.1.178', '155.232.1.48', '155.232.64.21', '155.232.64.76', '154.114.124.1']
+('62.115.114.112', {'country': 'Austria', 'region': '9', 'city': 'Vienna', 'lat': 48.2082, 'lon': 16.3738})
+('154.54.59.86', {'country': 'United States', 'region': 'DC', 'city': 'Washington', 'lat': 38.894, 'lon': -77.0365})
+('154.54.58.5', {'country': 'United States', 'region': 'DC', 'city': 'Washington', 'lat': 38.894, 'lon': -77.0365})
+('154.54.36.89', {'country': 'United States', 'region': 'DC', 'city': 'Washington', 'lat': 38.894, 'lon': -77.0365})
+('130.117.0.141', {'country': 'United States', 'region': 'DC', 'city': 'Washington', 'lat': 38.894, 'lon': -77.0365})
+('154.54.39.186', {'country': 'United States', 'region': 'DC', 'city': 'Washington', 'lat': 38.894, 'lon': -77.0365})
+('149.11.39.2', {'country': 'The Netherlands', 'region': 'NH', 'city': 'Amsterdam', 'lat': 52.3759, 'lon': 4.8975})
+('155.232.1.178', {'country': 'South Africa', 'region': 'WC', 'city': 'Cape Town', 'lat': -34.0031, 'lon': 18.4678})
+('155.232.1.48', {'country': 'South Africa', 'region': 'WC', 'city': 'Cape Town', 'lat': -34.0031, 'lon': 18.4678})
+('155.232.64.21', {'country': 'South Africa', 'region': 'WC', 'city': 'Cape Town', 'lat': -34.0031, 'lon': 18.4678})
+('155.232.64.76', {'country': 'South Africa', 'region': 'WC', 'city': 'Cape Town', 'lat': -34.0031, 'lon': 18.4678})
+('154.114.124.1', {'country': 'South Africa', 'region': 'WC', 'city': 'Cape Town', 'lat': -34.0031, 'lon': 18.4678})
